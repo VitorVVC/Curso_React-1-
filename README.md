@@ -4,6 +4,7 @@
 ### Informações:
 
 > Este curso está sendo mestrado pelo professor : `Leonardo Moura Leitao`
+
 > [Link do curso](https://www.udemy.com/course/react-redux-pt/)
 
 
