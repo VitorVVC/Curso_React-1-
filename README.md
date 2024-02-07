@@ -15,4 +15,9 @@
 ### Links úteis:
 
 > [Todos os exercicios e projetos do curso](https://github.com/cod3rcursos/curso-react-redux)
+
 > [Apostila do curso](http://files.cod3r.com.br/apostila-react-redux.pdf)
+
+> [Terminal Linux/Mac](https://blog.cod3r.com.br/terminal-no-macos-e-linux/)
+
+
